@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the answerer of the apology for the Catholicks</title>
+            <author>P. M., 17th cent.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26392</idno><idno type="EEBO-CITATION">8716121</idno>
+  <idno type="VID">204326</idno>
+  <idno type="EEBO-PROQUEST">2264210715</idno>
+  
+            <idno type="STC">Wing M65A</idno>
+            <idno type="OCLC">08716121</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204326)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1263:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the answerer of the apology for the Catholicks</title>
+                  <author>P. M., 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated: P.M., 20 May 1667.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lloyd, William, 1627-1717. --  Late apology in behalf of the papists.</term>
+               <term type="topical_term">Catholics --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204326:1"/>
+            <pb n="1" facs="tcp:204326:2"/>
+            <head>A LETTER TO THE ANSWERER OF THE APOLOGY FOR THE CATHOLICKS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THat those may find their mistake without any more trouble than to read the first lines, who seeing this addrest to the <hi>Answerer of the late Apology,</hi> will be apt to Imagine it takes up the Cudgels in that quarrel, permit me to begin with de<g ref="char:EOLhyphen"/>claring, that it means nothing less, and that it has no other relation to the <hi>Apology,</hi> then as That has occasioned the <hi>Answer;</hi> of which, since the benefit of the Reader is the design of all who expose their thoughts to be publickly read, Its Author conceiv'd it allow'd, be<g ref="char:EOLhyphen"/>cause intended, he should make his profit.</p>
+            <p>In the next place I shall assure you that, though the design of this be so far from the temper of those, which you wish us not to pub<g ref="char:EOLhyphen"/>lish, that 'tis the direct contrary, and aims at uniting, not inflam<g ref="char:EOLhyphen"/>ing parties, yet it should not have been exposed to more Eyes than your own, if I were acquainted with any other means to convey it to you than the Press: for I foresee 'twill unavoidably draw a frank<g ref="char:EOLhyphen"/>ness with it, less peradventure than the occasion requires, yet more
+<pb n="2" facs="tcp:204326:3"/>than well suits with the publick. But since necessity pleads, I hope you will judge favourably, especially where your party has so little of Adversary, that w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e my good fortu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e favourable to my desires, and I in any capacity to pretend to the honour, I would offer you my friendship with abundance of reality.</p>
+            <p>After this, I am sure, true profession, I will hope you will not take amiss the freedom with which I must acquaint you, that the re<g ref="char:EOLhyphen"/>putation of sincerity, which you challenge to your Religion (Pag. 3.) when you say that <hi>We are more sure of your Vows, (or Promises) than you can be of ours,</hi> is not so clear as you would have it thought. At least I meet with frequent complaints, which represent your carriage toward us very dis-advantagiously, and affirm there is much dis-pro<g ref="char:EOLhyphen"/>portion betwixt your tongues and hearts, and the Logick, which from your fair words would conclude fair meaning, very fallacious. My own thoughts indeed are nothing forward to your prejudice: for not having examined what I have heard, I conceive that to believe ill of another without certain proof; is a certain proof of no great good in ones self. And besides I cannot but think, that a man of Honour is a man of Honour, let his Religion be what it will. And truly, though I think not well enough of yours, to dare venture my Soul in it, yet neither do I think so ill of it, that it raises you nothing above the low pitch of corrupted nature, for in my judgement it gives you advan<g ref="char:EOLhyphen"/>tages beyond all, even Christian communities that I know, except the <hi>Catholick;</hi> whereas <hi>Honour</hi> is a thing whereof the Heathens themselves have left very notable examples. Notwithstanding I was not sorry to meet with an occasion of making tryal, especially such a one, wherein if I succeed as I desire, and find your Religion falsly asperst, besides the justice I shall do to wrong'd innocence (which even in an Enemy, if I had one, I should serve with much labour, and much joy) my happy curiosity may possibly prove more benefi<g ref="char:EOLhyphen"/>cial to my Country, than the Wit and labour of many and Wise men: whereas if I miscarry, all the harm is to sit still, and acknowledge my thoughts have been more charitable than rea<g ref="char:EOLhyphen"/>sonable.</p>
+            <p>To come then to the business, the substance of your Answer seems to consist in dividing us into two sors, those <hi>who wholly intend the com<g ref="char:EOLhyphen"/>mon
+<pb n="3" facs="tcp:204326:3"/>Interests of Christian Religion, and Civil Government;</hi> and others, who are <hi>Papalin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Asserters and Promoters of the Popes Usurpations.</hi> The first <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> claim for <hi>your Ancestors;</hi> allow to be <hi>Loyal, and Men of Honour;</hi> affirm, <hi>They have no cause to fear</hi> (<hi>Death,</hi> indeed, you say, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ted by your Adversaries words, but mean, I presume, They have no cause to fear any thing; and that you intend no way to punish Loyal Subjects, and Men of Honour) And lastly, exempt them from all Concern in the Severity of the Laws, <hi>By which,</hi> say you. <hi>(if others shall <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ase to distinguish themselves from the rest, by renoun<g ref="char:EOLhyphen"/>cing their <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l Principles) only the disloyal and seditious will be kept weak, that they may be harmless.</hi> For the disloyal Principles, which you would have renounc'd, you put these two: <hi>That the Pope has a Power to Depose Kings; And to discharge Subjects from their Allegiance. 'Tis only from these Dangers, to which these Principles would expose you, that you desire to be safe;</hi> and disown all <hi>Anger,</hi> more than <hi>a necessary Care,</hi> that the Treasons (of which you apprehend these have been the source) flow not again from them. And this, contracted into another order, seems to be the substance of what you oppose to the Apologist: the rest being either to dilate some of the Particulars, or otherwise prosecute the Advantages you conceive he gives you, and shew that mastery of Wit and Language wherein you excell.</p>
+            <p>If you desire my sense of this, I must frankly avow, your Plea is to my judgement very fair: For I cannot deny, but you have reason to be jealous of those Doctrines, and subjection to a foreign Power. I cannot deny, but they have beer maintained, and, which is worse, proceeded upon (I cannot say, in <hi>England,</hi> but) at least against <hi>England.</hi> And if they be both dangerous and abetted, who can blame your care and just desires of safety? So that if there be as much sinceri<g ref="char:EOLhyphen"/>ty, as reason, in what you say, I must needs profess, I cannot think well of those, who think otherwise than well of it. But this we must now put to tryal.</p>
+            <p>And First, To perform fully what you require on my part, I do unfeignedly, as in the sight of Almighty God, <hi>renounce</hi> (if that word be proper for him, who never held them, but however) utterly disclaim and disavow those Doctrines, and in my heart beileve the <hi>Pope has not a Power to Depose Kings,</hi> or <hi>to discharge Subjects from their
+<pb n="4" facs="tcp:204326:4"/>Allegiance;</hi> but contrariwise, That the Doctrines which assert it, are, (as all the Universities of <hi>France</hi> have declared) False, Erroneous, Con<g ref="char:EOLhyphen"/>trary to the Word of God, Pernicious, Seditious, and Detestable. And this Sentiment I conceive to be an Inheritance left me by my Catholick Ancestors, who have declar'd in Parliament, That <hi>the Crown of</hi> England <hi>hath been so free at all times, that it hath been in sub<g ref="char:EOLhyphen"/>jection to no Realm, but immediately subject to God, and to none other, in all things touching the Regalitie of the same;</hi> and provided by several pe<g ref="char:EOLhyphen"/>nalties, that <hi>it be not submitted to the Bishop of</hi> Rome. I conceive you do not, and indeed cannot well, require more of me; so that having fully performed on my side, it remains that you do so on yours.</p>
+            <p>And First, Since you assure me, That, <hi>He who is Loyal, and a Man of Honour, has no cause to fear;</hi> Now by your Standard I have tryed, and approved my self such, let me intreat you, to appear a Man of Honour too. Discharge. if you please, your Pledge, the Word you have publickly pawn'd, and make me see, I truly have no cause to fear. For I must confess my weakness, and acknow<g ref="char:EOLhyphen"/>ledge, that Goods, and Liberty, and Life (to all which the pe<g ref="char:EOLhyphen"/>nalties of some Laws extend) are things which my cowardly nature fears to lose. Not but that I know how much trust a good Subject ought to have in His Majesty's mercy: but I know too, that Laws may be executed without His privity; I know that several Cases are beyond even His Power to remedy; and if yet you think me scrupu<g ref="char:EOLhyphen"/>lous, I beseech you change Cases with me but one moment, while you consider how much the World were altred with you, if the secu<g ref="char:EOLhyphen"/>rity of Life and Fortune, which you have by Law, were chang'd into a hope of Mercy in the Execution; and how likely he were to prevail, who, to shew your selves good Subjects, and testifie the trust you have in his Majesty, should motion to you the making your selves lya<g ref="char:EOLhyphen"/>ble to these Laws.</p>
+            <p>Next, Since upon the Credit of your Word, that <hi>only</hi> the disloyal and seditious will be kept weak, if others shall distinguish themselves from them, I have distinguish'd my self in the manner you prescribe; I beseech you inform me, in what my Case is better, than that of the most disloyal and seditious, if any such there be, amongst us. You have indeed one pretty word, when instead of the severity we appre<g ref="char:EOLhyphen"/>hended
+<pb n="5" facs="tcp:204326:4"/>from the late heats, you talk of a <hi>Discreet</hi> execution of the Laws. But alas! what smal relief is it to a Patient, that a medicine which gives no ease, was brought him in a silver cup? Justice you know is blind, and though discretion indeed have, or rather be, the power to distinguish, you will not sure continue to perswade us that the same effects will proceed from blindness. If the Letter of the Law lye equally against Loyal me, and my fellow Traytor, and all my hopes be reduc't to the discretion of a Judge, whose Oath ty's him from making use of it, and obliges him to give sentence according to Law, I see not what fear my Companion can have, from which I can be free.</p>
+            <p>Again you desire us to content our selves, as our fathers have done, with such Priests as are known and protected by the civil power: and this advice you address to all, whether Loyal or other, without distinction. In return, I most earnestly and humbly desire you to commend me to such a one, assuring you I shall receive the favour, not only with much content, as you desire, but with much obligati<g ref="char:EOLhyphen"/>on, and as an ample reward of the honesty, whereof by your coun<g ref="char:EOLhyphen"/>sel I have given testimony; my Ancestors have not inform'd me they enjoy'd any such content; and for my own part I know no other but those at St. <hi>James's</hi> and <hi>Somersethouse,</hi> and sure you do not mean to offer me these for Confessors, whom the Law forbids me to apprach by 10 miles. 'Tis true I have not heard it has been much executed; but yet to make a bargain flatly contrary to Law, seems too much to affront the respect due to it: And besides who knows how soon it would be, if all <hi>Catholicks</hi> should, from all quarters where they are disperst, come up to live at <hi>London,</hi> which yet the expedient would oblige them to do, it being to all else wholly useless.</p>
+            <p>Lastly, since you profess there is <hi>no Anger</hi> in your proceedings, but only necessary care and desire of safety; And I have taken away what you assign for the ground of your jealousie, and left you nothing to fear, Let me intreat you those words may signifie something. Make it appear you truly have no Anger for those, in whom I have made appear there is no cause for it, and in whom you acknowledge both Loyalty and Honour. For I plead not in behalf of any other. Rather, if there be, as you suppose, Knaves amongst us, I consent they be
+<pb n="6" facs="tcp:204326:5"/>doubly punisht; first for being Knaves, and then for abusing their Religion, and drawing It into the guilty fellowship of their wicked<g ref="char:EOLhyphen"/>ness. But for us, whom your self distinguish from them, I beseech you let not all the comfort of our honesty be a few tinkling words which chime pleasantly, but when we come to grasp the sense, va<g ref="char:EOLhyphen"/>nish away, and leave nothing but the empty sound.</p>
+            <p>I will hope these Requests, since you have put them into my mouth, will appear reasonable, and that you will take ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to effect, what you thought fit, by proposing, to undertake. Give me leave to recommend them, with all the earnestness, with which men use to press honourable, and just, and great concerns, such as I conceive these, both to me, and you too. <hi>I</hi> might peradventure enlarge into some efficacy, but that I write to one, to whom a Remembran<g ref="char:EOLhyphen"/>cer is as much as an Orator, and to mention, the same thing as to plead. Permit me only to mind you of the blemish it is to a man of Honor, not to make good his word, and his word publickly given, and pub<g ref="char:EOLhyphen"/>lickly challenged. Permit me to mind you of the injustice there is in treating equally unequal cases, and punishing, with all the diffidence, and all the suspitious fears merited by disloyalty, persons confessedly Loyal. Permit me to beg of you, in your own behalf, you will not give people cause to apprehend your writings have no other aim than to speak hansomly, and make them lose their efficacy on all, but such as will be carryed away by smooth language. I shall end with adding to the obligation of your word, a consideration, which alone is, in my judgement, an obligation to all Lovers of their Country; And that is the great good which must necessarily flow from the condescen<g ref="char:EOLhyphen"/>dence I desire, For by that means the affections of two parties will be be reconcil'd into a right intelligence, a mutual love and confi<g ref="char:EOLhyphen"/>dence, and both united into a strength serviceable to our King and Country, when all jealousie and diffidence being taken away, there will be no strife left betwixt us, but who shall shew himself the ho<g ref="char:EOLhyphen"/>nestest man. I wish with all my heart the late storms were so calm'd that this consideration might be slight and trivial; but I fear I shall not be happy enough to see the day, in which it will be of little concern to the publick, that those who are heartily honest and faithful be hearti<g ref="char:EOLhyphen"/>ly united. And yet who can tell, whether this be all the benefit we
+<pb n="7" facs="tcp:204326:5"/>may hope from hence? I confess your writing pleasingly flatters me with imaginations I had not before, and I would fain hope the distance between us is not so great as many apprehend. For if a <hi>Papist</hi> be, as it seems by you it is, a name of faction, not Religion, and imports an a better of usurpations, and one oblig'd to believe the Doctrines I have disclaim'd, I perceive I am no <hi>Papist.</hi> And if you be true to what you profess, that <hi>you agree with us in all that is truly Catholique,</hi> I for my part have no more to desire of you, and think him unreason<g ref="char:EOLhyphen"/>able that has; nor do I know why you should be call'd a <hi>Protestant.</hi> The Bias of affections, which unadvisedly draws awry the casts even of the best Gamesters, being once taken off, that fair Field of Controver<g ref="char:EOLhyphen"/>sie, which you fairly leave open, may, for ought I know, produce these advantages; which, as all good men have alwayes desired, so few wise men have hitherto hoped. But we must leave the future to Providence, and 'tis time I leave these Considerations to your judge<g ref="char:EOLhyphen"/>ment, and leave them with this request, that you will look upon them as the rest of those reports which goe abroad to your disadvantage, which by your procedure in this occasion will appear, or causeless, or justly grounded. You will please then to resolve, what opinion you would that men should have of the sincerity of your Profession; and whether you, who use to reproach <hi>our</hi> Religion, with holding, that Faith is not to be kept with <hi>Hereticks,</hi> will consent to have it be<g ref="char:EOLhyphen"/>liev'd, 'tis practis'd in yours, not to value what you say to <hi>Catholicks.</hi> In all events, I shall have the satisfaction to have done service to the Innocence (if you please, of Protestants, however) of my fellow Catholicks, whose Title to Loyalty and Honour, since you acknow<g ref="char:EOLhyphen"/>ledge, I hope you will not be displeas'd, if one of them pretend to that of</p>
+            <closer>
+               <dateline>
+                  <date>20. May 1667.</date>
+               </dateline>
+               <signed>Your most humble and faithful Servant, <hi>P. M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:204326:6"/>
+            <head>Postscript.</head>
+            <p>I Must beg the Justice, not to be mistaken, and be thought, because I do not deny, there are bad Principles amongst us, that I there<g ref="char:EOLhyphen"/>fore grant it. I can assure you, I know none that own any; whether it be, that men have purchas'd Wisdom and Wit at the cost of their Progenitors, or that the narrow limits of my Accquaintace extend not to those you mean. So that I hope, by judging of the temper of those who live now, by the distempers of some who lived in the for<g ref="char:EOLhyphen"/>mer age, you judge amiss of us. Notwithstanding, as I cannot dis<g ref="char:EOLhyphen"/>prove you, nor say but your intelligence is better than mine, if you know any such, I am no Advocate for them.</p>
+            <p>Where I speak doubtingly of your Candor, I beseech you under<g ref="char:EOLhyphen"/>stand me of private men; for as for the actions of Princes, they are beyond my humble level. And to deal plainly, as I know nothing which can shadow the fame of those, by whom <hi>England</hi> has had, and has the happiness to be governed; so if I did, I would not discover my knowledge, believing that their Actions are as their Persons, Sa<g ref="char:EOLhyphen"/>cred, and not to be mentioned, but with Honour.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
